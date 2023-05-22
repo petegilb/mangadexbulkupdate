@@ -1,4 +1,4 @@
-# mangadexupdate
+# MangaDex Quick Status Changer / Unfollower
 A quick script to update my reading list to put everything into "On hold" and also unfollow everything so my feed is cleaner.
 
 Calls the mangadex api: https://api.mangadex.org/docs/

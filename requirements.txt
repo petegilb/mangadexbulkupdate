@@ -1,0 +1,4 @@
+python-dotenv==1.0.0
+requests==2.30.0
+alive-progress
+ratelimit==2.2.1

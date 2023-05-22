@@ -15,3 +15,8 @@ Number of Manga in user's manga list: 466
 |████████████████████████████████████████| 466/466 [100%] in 2:32.2 (3.06/s) 
 Set 0 manga to status -> on_hold
 ```
+
+Installation:
+```
+pip install -r requirements.txt
+```
